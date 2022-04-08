@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Techwhiz75
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React
+- 📫 How to reach me ... don't
